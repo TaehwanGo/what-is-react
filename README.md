@@ -16,6 +16,9 @@
 
 ## What is React?
 
+- https://www.w3schools.com/whatis/whatis_react.asp
+- https://blog.hubspot.com/website/react-js
+
 ### React란?
 
 - React는 사용자 인터페이스를 구축하기 위한 자바스크립트 라이브러리입니다. Facebook에서 개발되었으며, 웹 애플리케이션의 UI를 만들기 위해 사용되는 주요 라이브러리 중 하나입니다. React는 사용자 인터페이스를 구성하는데 필요한 컴포넌트를 만들고, 이들 컴포넌트들을 조합하여 동적하고 재사용 가능한 UI를 만들 수 있도록 돕습니다.
