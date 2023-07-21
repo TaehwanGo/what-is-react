@@ -51,3 +51,15 @@
 
 - https://jiwondev.tistory.com/category/%F0%9F%91%80%EA%B8%B0%EB%B3%B8%20%EC%A7%80%EC%8B%9D/%EC%9B%B9%20%EA%B8%B0%EB%B3%B8%EC%A7%80%EC%8B%9D
 - `브라우저`와 `HTML, CSS, JS`
+
+### React를 사용하지 않고 웹 애플리케이션을 개발
+
+### React를 사용하여 웹 애플리케이션을 개발
+
+- https://react.dev/learn/start-a-new-react-project
+- npx create-react-app react-tictactoe
+
+### Next.js로 React 애플리케이션 개발
+
+- https://nextjs.org/docs/getting-started/installation
+- npx create-next-app@latest
