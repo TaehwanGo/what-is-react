@@ -2,8 +2,8 @@
 
 ## 목차
 
-- What is React?
 - 웹 애플리케이션 개발을 위한 기본 지식
+- What is React?
 - React를 사용하지 않고 웹 애플리케이션을 개발
 - React를 사용하여 웹 애플리케이션을 개발
 - Node.js와 npm 설치
@@ -13,6 +13,11 @@
 - Next.js
   - Next.js가 해결하는 문제
 - Q&A
+
+## 웹 애플리케이션 개발을 위한 기본 지식
+
+- https://jiwondev.tistory.com/category/%F0%9F%91%80%EA%B8%B0%EB%B3%B8%20%EC%A7%80%EC%8B%9D/%EC%9B%B9%20%EA%B8%B0%EB%B3%B8%EC%A7%80%EC%8B%9D
+- `브라우저`와 `HTML, CSS, JS`
 
 ## What is React?
 
@@ -47,19 +52,14 @@
 
 - 이러한 이유들로 인해 React는 현대적인 웹 애플리케이션 개발에서 매우 인기 있는 선택지가 되었습니다. 다양한 기업과 개발자들이 React를 사용하여 사용자 친화적이고 성능 우수한 웹 애플리케이션을 구축하고 있습니다.
 
-## 웹 애플리케이션 개발을 위한 기본 지식
+## React를 사용하지 않고 웹 애플리케이션을 개발
 
-- https://jiwondev.tistory.com/category/%F0%9F%91%80%EA%B8%B0%EB%B3%B8%20%EC%A7%80%EC%8B%9D/%EC%9B%B9%20%EA%B8%B0%EB%B3%B8%EC%A7%80%EC%8B%9D
-- `브라우저`와 `HTML, CSS, JS`
-
-### React를 사용하지 않고 웹 애플리케이션을 개발
-
-### React를 사용하여 웹 애플리케이션을 개발
+## React를 사용하여 웹 애플리케이션을 개발
 
 - https://react.dev/learn/start-a-new-react-project
 - npx create-react-app react-tictactoe
 
-### Next.js로 React 애플리케이션 개발
+## Next.js로 React 애플리케이션 개발
 
 - https://nextjs.org/docs/getting-started/installation
 - npx create-next-app@latest
